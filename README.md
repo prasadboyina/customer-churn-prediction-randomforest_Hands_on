@@ -1,4 +1,4 @@
-📊 Customer Churn Prediction using Random Forest
+📊 **Customer Churn Prediction using Random Forest**
 📌 Project Overview
 
 Customer churn prediction is an important problem for businesses that rely on subscription-based services. Identifying customers who are likely to leave allows companies to take proactive actions to improve retention.
